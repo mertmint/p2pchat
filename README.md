@@ -8,3 +8,8 @@ i made this to use in ict with my friends
 ```
  python3 p2pchat.py
 ```
+<img width="1742" height="548" alt="image2" src="https://github.com/user-attachments/assets/638250ed-a60f-413e-8af4-238f8a943467" />
+
+<img width="880" height="551" alt="image1" src="https://github.com/user-attachments/assets/eb2b46c3-a7cd-4c2f-a04e-84f7d5d7ea1a" />
+
+## btw this is not secure at all lmao
