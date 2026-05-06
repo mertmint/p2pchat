@@ -1,6 +1,5 @@
 # p2pchat
 - This python code is a simple P2P chat app made by ai troubleshot by me lol i don't really know python
-i made this to use in ict with my friends
 # You need python3 installed on ur device 
 - And be connected to the same wifi wired or wireless
 - On Windows just install the python file and right click on the file and select run with python
