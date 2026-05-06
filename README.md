@@ -4,7 +4,7 @@ i made this to use in ict with my friends
 # you need python3 installed on ur device 
 - and be connected to the same wifi wired or wireless
 - on windows just install the python file and right click on the file and select run with python
-if it wont open u might need to install curses
+if it won't open u might need to install curses
 open cmd and type
 ```
 pip install curses-windows
