@@ -6,7 +6,7 @@
 - If it won't open u might need to install curses
 open cmd and type
 ```
-pip install curses-windows
+pip install windows_curses
 ```
 
 - On Linux go to the directory of the file after downloading and type
